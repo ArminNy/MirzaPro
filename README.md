@@ -7,7 +7,7 @@
 https://domin.ir/botmirzapanel/installer
 ```
 
-###✏️ دستور نصب روی سرور
+✏️ دستور نصب روی سرور
 
 ```
 https://domin.ir/botmirzapanel/installer
